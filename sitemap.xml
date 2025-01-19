@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Page d'accueil -->
     <url>
-        <loc>https://clairvoyancemedium.github.io/Voyancepartelephonepaschere.github.io/</loc>
-        <lastmod>2024-12-09</lastmod>
+        <loc>https://clairvoyancemedium.github.io/luotettava-ja-nopea-ennustus-sahkopostitse.github.io/</loc>
+        <lastmod>2025-01-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
+    
+    <!-- Pages tarifaires -->
     <url>
-        <loc>https://clairvoyancemedium.github.io/Voyancepartelephonepaschere.github.io/tarifs</loc>
-        <lastmod>2024-12-09</lastmod>
+        <loc>https://clairvoyancemedium.github.io/luotettava-ja-nopea-ennustus-sahkopostitse.github.io/1-kysymys</loc>
+        <lastmod>2025-01-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://clairvoyancemedium.github.io/Voyancepartelephonepaschere.github.io/contact</loc>
-        <lastmod>2024-12-09</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>https://clairvoyancemedium.github.io/luotettava-ja-nopea-ennustus-sahkopostitse.github.io/3-kysymykset</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://clairvoyancemedium.github.io/luotettava-ja-nopea-ennustus-sahkopostitse.github.io/5-kysymykset</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Politique de confidentialité -->
+    <url>
+        <loc>https://clairvoyancemedium.github.io/luotettava-ja-nopea-ennustus-sahkopostitse.github.io/privacy-policy</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>yearly</changefreq>
         <priority>0.5</priority>
     </url>
 </urlset>
